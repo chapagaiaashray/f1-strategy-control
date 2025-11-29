@@ -65,9 +65,9 @@ We fed the model the exact variables from Lap 38 of the race:
 
 ### Results: Simulation vs. Reality
 
-![Saudi Arabia Simulation Result](f1-strategy-control/SS1.png) 
-![Saudi Arabia Simulation Result](f1-strategy-control/SS2.png) 
-![Saudi Arabia Simulation Result](f1-strategy-control/SS3.png) 
+![Saudi Arabia Simulation Result](SS1.png) 
+![Saudi Arabia Simulation Result](SS2.png) 
+![Saudi Arabia Simulation Result](SS3.png) 
 
 
 * **Prediction:** The simulation showed Norris closing the gap rapidly for 4 laps, but then stalling as his Soft tires overheated. The model predicted Norris would finish **3.05 seconds behind**.
