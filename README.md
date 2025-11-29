@@ -65,8 +65,13 @@ We fed the model the exact variables from Lap 38 of the race:
 
 ### Results: Simulation vs. Reality
 
+**Gap Analysis Display:
 ![Saudi Arabia Simulation Result](SS1.png) 
+
+**Race Trace:
 ![Saudi Arabia Simulation Result](SS2.png) 
+
+**Data Table (showing gap to the leader):
 ![Saudi Arabia Simulation Result](SS3.png) 
 
 
