@@ -202,7 +202,7 @@ def show_simulation_page():
         gap_to_leader = st.number_input("Gap to Leader (s)", value=18.0, step=0.1)
         current_lap = st.number_input("Current Lap", 1, track_info['Laps'], 40)
         laps_to_sim = st.slider("Sim Horizon", 3, 15, 8)
-        pit_loss = st.slider("Pit Loss (s)", 15.0, 30.0, defaults.get(selected_track, 22.5))
+        pit_loss = st.slider("Pit Loss (s)", 0.0, 30.0, defaults.get(selected_track, 22.5))
 
         st.markdown("###")
         run_btn = st.button("🚀 RUN SIMULATION")
