@@ -8,7 +8,7 @@
 
 ## 1. Project Overview
 
-In Formula 1, race strategy is a complex optimization problem involving physics, probability, and human psychology. Teams like Red Bull and Mercedes use bespoke software to answer one critical question: **"If we pit now, where will we finish?"**
+In Formula 1, race strategy is a complex optimization problem involving physics, probability, and human psychology. Teams like Red Bull Racing Team, Mercedes Formula One Team, and other successful teams use bespoke software to answer one critical question: **"If we pit now, where will we finish?"**
 
 This project reverse-engineers that capability. It ingests historical telemetry data, trains distinct ML models for different track surfaces, and provides a "Pit Wall" interface to simulate future race outcomes.
 
