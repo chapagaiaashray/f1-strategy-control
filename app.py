@@ -13,7 +13,7 @@ st.set_page_config(
     page_title="F1 Strategy Control", 
     page_icon="🏎️",
     layout="wide",
-    initial_sidebar_state="collapsed" # Start with sidebar hidden for cleaner look
+    initial_sidebar_state="collapsed"
 )
 
 # --- CUSTOM CSS ---
@@ -130,7 +130,7 @@ def show_home_page():
         """)
         
     with col2:
-        # A simple visual to make it pop (You can replace with an actual image later)
+        # A simple visual to make it pop
         st.info("💡 **Did you know?**\n For Monza 2024, this model correctly predicted that Oscar Piastri would fail to catch Charles Leclerc by 1.2 seconds (with minute error margin).")
 
     st.markdown("---")
