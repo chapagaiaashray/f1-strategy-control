@@ -97,7 +97,7 @@ To run this strategy engine on your local machine:
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/chapagaiaashray/f1-strategy-control.git](https://github.com/chapagaiaashray/f1-strategy-control.git)
+    git clone https://github.com/chapagaiaashray/f1-strategy-control.git
     cd f1-strategy-control
     ```
 
