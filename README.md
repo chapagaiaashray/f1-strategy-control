@@ -37,6 +37,7 @@ The system uses **Random Forest Regression** (`sklearn.ensemble.RandomForestRegr
     * **Bahrain:** High Degradation (Abrasive surface).
     * **Saudi Arabia:** Low Degradation (Smooth street circuit).
     * **Monza:** Low Downforce (High speed).
+    * **Japan:** The 'Figure-8' layout has many fast corners. This puts sideways energy into the tires, causing high wear (Technical).
 
 ### The Simulation Engine (Inference)
 The app runs a forward-looking simulation (Monte Carlo-lite) based on user inputs. It projects lap times for both the user (Chaser) and the opponent (Leader) over a set horizon to determine if/when an overtake will occur.
