@@ -154,7 +154,7 @@ def show_home_page():
 
     # Track Preview Card
     info = track_characteristics[chosen_track]
-    st.success(f"**{chosen_track} Profile:** {info['Type']}\n\n{info['Desc']}\n\n{info['Laps']}")
+    st.success(f"**{chosen_track} Profile:** {info['Type']}\n\n{info['Desc']}\n\n **Number of Laps:** {info['Laps']}")
 
 # ==========================================
 # 5. SIMULATION PAGE (DASHBOARD)
