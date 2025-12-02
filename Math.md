@@ -58,9 +58,7 @@ To predict a race outcome (like the "Bearman Defense" scenario), we cannot just 
 For a remaining race distance of $R$ laps, we iteratively update the state of the **Chaser** ($C$) and the **Leader** ($L$).
 
 **Initialization:**
-$$
-Gap_0 = \text{Current Telemetry Gap (s)}
-$$
+$$Gap_0 = \text{Current Telemetry Gap (s)}$$
 
 **Loop (for $k = 0$ to $R$):**
 
