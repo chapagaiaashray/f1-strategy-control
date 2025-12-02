@@ -79,7 +79,7 @@ $$
 \delta_k = \hat{t}_{L, k} - \hat{t}_{C, k}
 $$
 
-*(If $\delta_k > 0$, the Chaser is faster).*
+Note: If $\delta_k > 0$, the Chaser is faster.
 
 **3. Update Gap:**
 Subtract the delta from the current gap.
