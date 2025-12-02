@@ -78,6 +78,7 @@ Determine the time difference for that specific lap.
 $$
 \delta_k = \hat{t}_{L, k} - \hat{t}_{C, k}
 $$
+
 *(If $\delta_k > 0$, the Chaser is faster).*
 
 **3. Update Gap:**
