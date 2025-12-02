@@ -30,7 +30,7 @@ The application is built on a modular data pipeline:
 * **Cleaning:** Data is filtered to remove outliers (Safety Car laps, In/Out laps) to ensure the model learns only "Green Flag" racing pace.
 * **Feature Engineering:** Features include `TireAge`, `Compound` (Soft/Medium/Hard), and `LapNumber` (proxy for fuel load).
 
-Math behind this project is accessible at [**MATH TO F1 SIMULATOR**](/Math.md)
+**Math behind this project is accessible at [**MATH TO F1 SIMULATOR**](/Math.md)**
 
 ### The Machine Learning Core
 The system uses **Random Forest Regression** (`sklearn.ensemble.RandomForestRegressor`) rather than simple linear regression.
