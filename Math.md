@@ -52,7 +52,7 @@ $$
 
 ## 3. The Simulation Engine (The "Integrator")
 
-To predict a race outcome (like the "Bearman Defense" scenario), we cannot just predict one lap. We must run a **Forward-Looking Discrete Simulation** (Numerical Integration).
+To predict a race outcome (like the ["Bearman Defense"](https://github.com/chapagaiaashray/f1-strategy-control/blob/main/README.md#scenario-the-bearman-defense) scenario), we cannot just predict one lap. We must run a **Forward-Looking Discrete Simulation** (Numerical Integration).
 
 ### The Algorithm
 For a remaining race distance of $R$ laps, we iteratively update the state of the **Chaser** ($C$) and the **Leader** ($L$).
