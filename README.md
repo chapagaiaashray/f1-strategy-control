@@ -2,7 +2,7 @@
 
 **A Machine Learning application that predicts Formula 1 tire degradation and simulates real-time strategic race scenarios using Random Forest regression.**
 
-[**View Live Demo**](https://formula-one-strategy-control.streamlit.app/)
+[**View Live Demo**](https://formula-one-strategy-control.streamlit.app/) (Takes a few time to load; approximately 30-60 seconds)
 
 ---
 
